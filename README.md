@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am learning java,react.<br>I am good at html,CSS and JavaScript.<br>I am interested in Full Stack Developement.<br>A good team player 
+ Learning Node js,react.<br>I am good at Java Dependenncies,Mongo-DB,Mysql, html,CSS and JavaScript.<br>I am interested in Full Stack Developement.<br> Looking forward to connect and collaborate <br>A good team player 
 
 
 ## 🌐 Socials:
